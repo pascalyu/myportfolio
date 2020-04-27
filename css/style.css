@@ -1,0 +1,85 @@
+body {
+    margin: 0 auto;
+    font-family: "Helvetica", "Arial", sans-serif;
+    line-height: 1.5;
+    color: #567;
+}
+
+main {
+    margin: 0 auto;
+    padding: 4em 1em;
+    max-width: 50em;
+}
+
+header {
+    color: white;
+    padding-bottom: 1vw;
+    background-color: #263d36;
+    background-image: url("header4.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    line-height: 1.2;
+    max-width: none !important;
+}
+
+#header-content {
+    margin:40px 40px 40px 40px;
+
+}
+
+header img {
+    display: inline-block;
+    height: 120px;
+    vertical-align: top;
+    width: 120px;
+}
+
+header h1 {
+    color: white;
+    font-size: 2.5em;
+    font-weight: 300;
+}
+
+header .contact_link {
+    border: 1px solid #41B3A3;
+    border-radius: 290486px;
+    color: white;
+    font-size: 0.6em;
+    letter-spacing: 0.2em;
+    padding: 1em 2em;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: none 200ms ease-out;
+    transition-property: color, background;
+}
+
+header .contact_link:hover {
+    background: #41B3A3;
+    color: white;
+}
+
+.contact_link {
+    color: #41B3A3;
+}
+
+header a {
+    border-radius: 290486px;
+    color: white;
+    font-size: 0.6em;
+    letter-spacing: 0.2em;
+    padding: 1em 2em;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: none 200ms ease-out;
+    transition-property: color, background;
+}
+
+header .contact_link:hover {
+    background: #41B3A3;
+    color: white;
+}
+
+.contact_link {
+    color: #41B3A3;
+}
