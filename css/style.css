@@ -24,8 +24,7 @@ header {
 }
 
 #header-content {
-    margin:40px 40px 40px 40px;
-
+    margin: 40px 40px 40px 40px;
 }
 
 header img {
@@ -82,4 +81,8 @@ header .contact_link:hover {
 
 .contact_link {
     color: #41B3A3;
+}
+
+.some-margin-top-space {
+    margin-top: 5%
 }
