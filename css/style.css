@@ -74,6 +74,10 @@ header a {
     transition-property: color, background;
 }
 
+.main-color {
+    color: #41B3A3
+}
+
 header .contact_link:hover {
     background: #41B3A3;
     color: white;
